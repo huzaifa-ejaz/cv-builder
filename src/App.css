@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  background-color: rgb(228, 225, 225);
+}
+
+.cv-container {
+  background-color: white;
+  margin: 10px;
+  width: 240px;
+  border-radius: 5px;
+  padding: 10px;
+}
